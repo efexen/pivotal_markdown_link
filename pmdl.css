@@ -1,0 +1,7 @@
+section.model_details .story .persistence.use_click_to_copy .close {
+  width: 80px !important;
+}
+
+button.clipboard_button.markdown-link:before {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAYCAQAAADThizGAAAA50lEQVR4AbWVxUEDURRFD/Y3WAFpAathVlmlgFSAdYHbButgCkgBaYIa4qtsIPjj4g+X/3PP6JOznIHAKjUsmhqrBNjAkrEBHYyM+GQYHTCRJib6p7MnlvFZeKm7uNpPOlHmOWUsXndBBkDGRQKd6DItulgSnagJS6cTaXQHmOM4Vgf5y3Pu6+DknuPvdYEqJqoEXweGqHyQVVT9VgeTnIjJD3UYU90cmoKfdFAQH+uA6rWXWo0C/Kzz+Vif5gxVdJ2DeB2UuBYlSKODZdH/D1RiXQejSHyKGJ20v55tCOzRxKJpske4A8b/yQ+MoEC8AAAAAElFTkSuQmCC') !important;
+}
